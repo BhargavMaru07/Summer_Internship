@@ -1,0 +1,65 @@
+<h1>Hello wolrd</h1>
+
+<!-- interpolation : it's way to bind data from your component to your HTML template. -->
+<!-- it's used to execute javascript -->
+<!-- we can not create variable in it  -->
+<h1>{{title}}</h1>
+<h1>{{title.toUpperCase()}}</h1>
+<h1>{{'title'.toUpperCase()}}</h1>
+
+<button (click)="handleClick()">click</button>
+<button (click)="sum(10,20)">get sum</button>
+
+<hr>
+
+<h1>Event handling</h1>
+
+<button (click)="handleEvent($event)">click</button>
+<button (mouseenter)="handleEvent($event)">Mouseenter</button>
+<button (mouseleave)="handleEvent($event)">Mouseleave</button>
+
+<input type="text" name="user" value="hi" (input)="handleInput($event)">
+
+<hr>
+
+<!-- conditional rendering -->
+<button (click)="toggleDisplay()">{{display ? 'make it false' : 'make it true'}}</button>
+@if(display){
+    <div>Display is true</div>
+}@else {
+    <div>Display is false</div>
+}
+
+<!-- if else using ngif  -->
+<div *ngIf="isLoggedIn; else loginPrompt">
+    Welcome back!
+  </div>
+  <ng-template #loginPrompt>
+    Please log in.
+  </ng-template>
+  
+
+<!-- only if  -->
+ <div *ngIf="isLoggedIn">
+    for only if condition , no use of ng-template
+ </div>
+
+
+<!-- loops -->
+  <ul>
+    <li *ngFor="let item of items">{{ item }}</li>
+  </ul>
+
+
+<!-- with index -->
+<li *ngFor="let item of items; let i = index">
+    {{ i + 1 }}. {{ item }}
+  </li>  
+
+
+<!-- Render login component -->
+<!-- <app-login></app-login> -->
+<!-- Render signup component -->
+<!-- <signup></signup> -->
+
+<router-outlet></router-outlet>
