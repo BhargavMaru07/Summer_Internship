@@ -94,8 +94,7 @@
               "RelativeToolTip": "Mission.API\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-06T17:00:46.958Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-06T17:00:46.958Z"
             },
             {
               "$type": "Document",
@@ -141,7 +140,7 @@
               "RelativeDocumentMoniker": "Mission.API\\appsettings.Development.json",
               "ToolTip": "C:\\Summer_Internship\\Day3\\Mission\\Mission.API\\appsettings.Development.json",
               "RelativeToolTip": "Mission.API\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-07-06T17:07:21.423Z",
               "EditorCaption": ""
