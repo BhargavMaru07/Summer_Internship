@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Summer_Internship\\Day3\\Mission\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B2CE5CBC-2213-48E7-8E61-EC762213C6F6}|Mission.API\\Mission.API.csproj|c:\\summer_internship\\day3\\mission\\mission.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B2CE5CBC-2213-48E7-8E61-EC762213C6F6}|Mission.API\\Mission.API.csproj|solutionrelative:mission.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B2CE5CBC-2213-48E7-8E61-EC762213C6F6}|Mission.API\\Mission.API.csproj|c:\\summer_internship\\day3\\mission\\mission.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2CE5CBC-2213-48E7-8E61-EC762213C6F6}|Mission.API\\Mission.API.csproj|solutionrelative:mission.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2CE5CBC-2213-48E7-8E61-EC762213C6F6}|Mission.API\\Mission.API.csproj|c:\\summer_internship\\day3\\mission\\mission.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2CE5CBC-2213-48E7-8E61-EC762213C6F6}|Mission.API\\Mission.API.csproj|solutionrelative:mission.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C3501C31-90CD-4F8D-9571-2B7E73F5B042}|Mission.Services\\Mission.Services.csproj|c:\\summer_internship\\day3\\mission\\mission.services\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C3501C31-90CD-4F8D-9571-2B7E73F5B042}|Mission.Services\\Mission.Services.csproj|solutionrelative:mission.services\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3501C31-90CD-4F8D-9571-2B7E73F5B042}|Mission.Services\\Mission.Services.csproj|c:\\summer_internship\\day3\\mission\\mission.services\\service\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3501C31-90CD-4F8D-9571-2B7E73F5B042}|Mission.Services\\Mission.Services.csproj|solutionrelative:mission.services\\service\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2CE5CBC-2213-48E7-8E61-EC762213C6F6}|Mission.API\\Mission.API.csproj|c:\\summer_internship\\day3\\mission\\mission.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2CE5CBC-2213-48E7-8E61-EC762213C6F6}|Mission.API\\Mission.API.csproj|solutionrelative:mission.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C3501C31-90CD-4F8D-9571-2B7E73F5B042}|Mission.Services\\Mission.Services.csproj|c:\\summer_internship\\day3\\mission\\mission.services\\iservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,8 +70,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Summer_Internship\\Day3\\Mission\\Mission.Services\\Service\\JwtService.cs",
+              "RelativeDocumentMoniker": "Mission.Services\\Service\\JwtService.cs",
+              "ToolTip": "C:\\Summer_Internship\\Day3\\Mission\\Mission.Services\\Service\\JwtService.cs",
+              "RelativeToolTip": "Mission.Services\\Service\\JwtService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T09:27:11.727Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 7,
@@ -82,19 +95,21 @@
               "RelativeToolTip": "Mission.Repositories\\Repository\\UserRepository.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAQwBwAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T08:01:40.331Z"
+              "WhenOpened": "2025-07-10T08:01:40.331Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Summer_Internship\\Day3\\Mission\\Mission.API\\Program.cs",
               "RelativeDocumentMoniker": "Mission.API\\Program.cs",
               "ToolTip": "C:\\Summer_Internship\\Day3\\Mission\\Mission.API\\Program.cs",
               "RelativeToolTip": "Mission.API\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-06T17:00:46.958Z"
+              "WhenOpened": "2025-07-06T17:00:46.958Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -106,7 +121,8 @@
               "RelativeToolTip": "Mission.Entities\\ViewModels\\Login\\UserLoginRequestModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T08:10:42.056Z"
+              "WhenOpened": "2025-07-10T08:10:42.056Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -116,9 +132,10 @@
               "RelativeDocumentMoniker": "Mission.Entities\\MissionDbContext.cs",
               "ToolTip": "C:\\Summer_Internship\\Day3\\Mission\\Mission.Entities\\MissionDbContext.cs",
               "RelativeToolTip": "Mission.Entities\\MissionDbContext.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAAABYAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAIBJwBYAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-06T16:46:17.599Z"
+              "WhenOpened": "2025-07-06T16:46:17.599Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -128,21 +145,22 @@
               "RelativeDocumentMoniker": "Mission.Entities\\Models\\User.cs",
               "ToolTip": "C:\\Summer_Internship\\Day3\\Mission\\Mission.Entities\\Models\\User.cs",
               "RelativeToolTip": "Mission.Entities\\Models\\User.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAA2wBIAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA0wBIAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-06T16:38:14.719Z"
+              "WhenOpened": "2025-07-06T16:38:14.719Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Summer_Internship\\Day3\\Mission\\Mission.API\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "Mission.API\\appsettings.Development.json",
-              "ToolTip": "C:\\Summer_Internship\\Day3\\Mission\\Mission.API\\appsettings.Development.json",
-              "RelativeToolTip": "Mission.API\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-06T17:07:21.423Z",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Summer_Internship\\Day3\\Mission\\Mission.Services\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "Mission.Services\\Service\\UserService.cs",
+              "ToolTip": "C:\\Summer_Internship\\Day3\\Mission\\Mission.Services\\Service\\UserService.cs",
+              "RelativeToolTip": "Mission.Services\\Service\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T08:33:04.358Z",
               "EditorCaption": ""
             },
             {
@@ -155,7 +173,8 @@
               "RelativeToolTip": "Mission.Entities\\ViewModels\\Login\\UserLoginResponseModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T08:12:09.76Z"
+              "WhenOpened": "2025-07-10T08:12:09.76Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -165,21 +184,10 @@
               "RelativeDocumentMoniker": "Mission.Entities\\ViewModels\\ResponseResult.cs",
               "ToolTip": "C:\\Summer_Internship\\Day3\\Mission\\Mission.Entities\\ViewModels\\ResponseResult.cs",
               "RelativeToolTip": "Mission.Entities\\ViewModels\\ResponseResult.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAUAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAIBJwAUAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T08:13:01.829Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Summer_Internship\\Day3\\Mission\\Mission.Services\\Service\\UserService.cs",
-              "RelativeDocumentMoniker": "Mission.Services\\Service\\UserService.cs",
-              "ToolTip": "C:\\Summer_Internship\\Day3\\Mission\\Mission.Services\\Service\\UserService.cs",
-              "RelativeToolTip": "Mission.Services\\Service\\UserService.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T08:33:04.358Z"
+              "WhenOpened": "2025-07-10T08:13:01.829Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -191,11 +199,12 @@
               "RelativeToolTip": "Mission.Services\\IService\\IUserService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T08:33:56.944Z"
+              "WhenOpened": "2025-07-10T08:33:56.944Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "LoginController.cs",
               "DocumentMoniker": "C:\\Summer_Internship\\Day3\\Mission\\Mission.API\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "Mission.API\\Controllers\\LoginController.cs",
@@ -203,7 +212,8 @@
               "RelativeToolTip": "Mission.API\\Controllers\\LoginController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T08:39:50.086Z"
+              "WhenOpened": "2025-07-10T08:39:50.086Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -215,7 +225,8 @@
               "RelativeToolTip": "Mission.Repositories\\IRepository\\IUserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T08:02:58.611Z"
+              "WhenOpened": "2025-07-10T08:02:58.611Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -227,7 +238,8 @@
               "RelativeToolTip": "Mission.Repositories\\Mission.Repositories.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-10T08:00:52.6Z"
+              "WhenOpened": "2025-07-10T08:00:52.6Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -239,7 +251,8 @@
               "RelativeToolTip": "Mission.Entities\\MissionDbContextFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T07:40:50.694Z"
+              "WhenOpened": "2025-07-10T07:40:50.694Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -251,7 +264,8 @@
               "RelativeToolTip": "Mission.Services\\Mission.Services.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-10T07:13:52.939Z"
+              "WhenOpened": "2025-07-10T07:13:52.939Z",
+              "EditorCaption": ""
             }
           ]
         }

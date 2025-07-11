@@ -116,3 +116,11 @@ C:\Summer_Internship\Day3\Mission\Mission.Api\obj\Debug\net8.0\staticwebassets\m
 C:\Summer_Internship\Day3\Mission\Mission.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Mission.API.props
 C:\Summer_Internship\Day3\Mission\Mission.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Mission.API.props
 C:\Summer_Internship\Day3\Mission\Mission.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Summer_Internship\Day3\Mission\Mission.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Summer_Internship\Day3\Mission\Mission.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Summer_Internship\Day3\Mission\Mission.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Summer_Internship\Day3\Mission\Mission.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Summer_Internship\Day3\Mission\Mission.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Summer_Internship\Day3\Mission\Mission.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Summer_Internship\Day3\Mission\Mission.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Summer_Internship\Day3\Mission\Mission.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
