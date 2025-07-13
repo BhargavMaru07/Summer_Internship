@@ -12,7 +12,7 @@ namespace Mission.Entities
     public class MissionDbContext(DbContextOptions<MissionDbContext> options) :DbContext(options)
     {
         public DbSet<User> Users { get; set; }
-
+        public DbSet<MissionSkill> MissionSkills { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<User>().HasData(new User()
