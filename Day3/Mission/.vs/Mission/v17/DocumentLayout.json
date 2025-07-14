@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Summer_Internship\\Day3\\Mission\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{69418CE6-58B3-4FA9-9247-D3B1173C58C9}|Mission.Entities\\Mission.Entities.csproj|c:\\summer_internship\\day3\\mission\\mission.entities\\migrations\\20250713093157_createmissionskillentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69418CE6-58B3-4FA9-9247-D3B1173C58C9}|Mission.Entities\\Mission.Entities.csproj|solutionrelative:mission.entities\\migrations\\20250713093157_createmissionskillentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,20 +9,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20250713093157_CreateMissionSkillEntity.cs",
-              "DocumentMoniker": "C:\\Summer_Internship\\Day3\\Mission\\Mission.Entities\\Migrations\\20250713093157_CreateMissionSkillEntity.cs",
-              "RelativeDocumentMoniker": "Mission.Entities\\Migrations\\20250713093157_CreateMissionSkillEntity.cs",
-              "ToolTip": "C:\\Summer_Internship\\Day3\\Mission\\Mission.Entities\\Migrations\\20250713093157_CreateMissionSkillEntity.cs",
-              "RelativeToolTip": "Mission.Entities\\Migrations\\20250713093157_CreateMissionSkillEntity.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAgwBsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-13T10:03:31.24Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             }
           ]
         }
